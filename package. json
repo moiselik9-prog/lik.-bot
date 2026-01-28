@@ -1,7 +1,7 @@
 {
   "name": Lik.bot,
   "version": "1.0.0",
-  "description": "Lik.bot Crew WhatsApp Bot — a powerful, fun and intelligent bot packed with extra features, AI capabilities and a sleek futuristic design",
+  "description": "Lik.bot WhatsApp Bot — a powerful, fun and intelligent bot packed with extra features, AI capabilities and a sleek futuristic design",
   "main": "index.js",
   "type": "module",
   "scripts": {
